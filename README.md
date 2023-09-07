@@ -55,6 +55,20 @@ Reach out to me for collaboration, discussions, or any queries related to Java c
 The ☁️ CloudnLoud Tech Community is a volunteer-driven non-profit open-source community focused on technology. We host free tech conferences, provide technical training, and facilitate discussions on a wide range of IT technologies and open-source tools. Our mission is to unite professionals, leaders, and companies to support project success and make a meaningful impact by helping children affected by cancer.
 
 
+# :globe_with_meridians: Join Me in the Meetup Sphere:
+
+Connecting with fellow tech enthusiasts and exchanging knowledge is a true passion of mine. 
+I'm actively involved as a Co-Organizer in these thriving meetup communities:
+
+- :partying_face: Co-Organizer of **Data AI ML Europe & UK Group** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - a meetup group for a shared purpose to empower everyday people to change the world with Data.
+
+- As part of this group, I am organising an event - Tech Fusion - Bridging AI Dreams with AWS Realities [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/events/295800993/) - beginning from ideating the event, inviting speakers, creating posters and promotional videos to marketing the event to capture the audience, hosting the event and distributing goodies to the attendees.
+
+![Meetup Poster](https://github.com/jahnavivetukuri/jahnavivetukuri/blob/main/Meetup_poster_16_September.png)
+
+- :partying_face: Event Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
+
+
 
 ### 💻 Tech Stack: Expertise 🛠️
 
@@ -107,19 +121,6 @@ Here are some ideas to get you started:
 
   
 ---
-
-# :globe_with_meridians: Join Me in the Meetup Sphere:
-
-Connecting with fellow tech enthusiasts and exchanging knowledge is a true passion of mine. 
-I'm actively involved as a Co-Organizer in these thriving meetup communities:
-
-- :partying_face: Co-Organizer of **Data AI ML Europe & UK Group** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - a meetup group for a shared purpose to empower everyday people to change the world with Data.
-
-- As part of this group, I am organising an event - Tech Fusion - Bridging AI Dreams with AWS Realities [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/events/295800993/) - beginning from ideating the event, inviting speakers, creating posters and promotional videos to marketing the event to capture the audience, hosting the event and distributing goodies to the attendees.
-
-- 
-
-- :partying_face: Event Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
 
 Being the community builder of CloudnLoud Tech Community, Contributed in the content preparation and producing the videos of  the below topics-
