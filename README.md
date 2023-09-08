@@ -2,9 +2,10 @@
 
 
 Welcome to my *GitHub profile*! I'm **Jahnavi Vetukuri**
+
 A passionate Software Professional and a proud alumnus of Anna University – MIT Campus, equipped with 7+ years of progressive experience in the IT sector. 
 
-I specialize in harnessing Java/J2EE technologies, Micro-service architecture encompassing Spring Boot and Hibernate, and adeptly managing MySQL/Oracle databases. 
+I specialize in harnessing **Java/J2EE technologies, Micro-service architecture encompassing Spring Boot and Hibernate, and adeptly managing MySQL/Oracle databases**. 
 
 I am profoundly skilled in dissecting system requisites, aligning with end-user expectations, architecting solutions, and meticulously executing end-to-end business technology ventures.
 
@@ -27,7 +28,7 @@ I don't just write code; I understand the business goals behind it. My ability t
 Reach out to me for collaboration, discussions, or any queries related to Java concepts- core and advanced, Java development, Spring and web related technologies, backend and front end technologies
 
 <div align="center">
-🌐 You can connect with me on
+<p><strong>🌐 You can connect with me on</strong></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahnavivetukuri)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jahnavivetukuri)
@@ -47,12 +48,12 @@ Reach out to me for collaboration, discussions, or any queries related to Java c
 ![CloudnLoud Tech Community](https://github.com/iamgnanadeep/iamgnanadeep/blob/main/cloudnloud-Community.gif)
 
 **Community Leader (Developer Advocate)**
-- 🚀 Role: Community Developer Advocate
-- 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
-- 🌟 Proudly part of the CloudnLoud Tech Community Core team.
-- 🤝 Organised the community building workshop to further the horizons of the community and to bring the oneness and harness the power of being in a community
+🚀 **Role**: Community Developer Advocate
+🔗 **Community Link** [CloudnLoud Tech Community](https://cloudnloud.com)
+🌟 Proudly part of the **CloudnLoud Tech Community** Core team.
+🤝 Organised the community building workshop to further the horizons of the community and to bring the oneness and harness the power of being in a community
 
-The ☁️ CloudnLoud Tech Community is a volunteer-driven non-profit open-source community focused on technology. We host free tech conferences, provide technical training, and facilitate discussions on a wide range of IT technologies and open-source tools. Our mission is to unite professionals, leaders, and companies to support project success and make a meaningful impact by helping children affected by cancer.
+The ☁️ CloudnLoud Tech Community is a volunteer-driven non-profit open-source community focused on technology. We **host free tech conferences, provide technical training**, and **facilitate discussions** on a wide range of **IT technologies and open-source tools**. Our mission is to unite professionals, leaders, and companies to support project success and make a meaningful impact by helping children affected by cancer.
 
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
@@ -62,7 +63,7 @@ I'm actively involved as a Co-Organizer in these thriving meetup communities:
 
 - :partying_face: Co-Organizer of **Data AI ML Europe & UK Group** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - a meetup group for a shared purpose to empower everyday people to change the world with Data.
 
-- As part of this group, I am organising an event - Tech Fusion - Bridging AI Dreams with AWS Realities [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/events/295800993/) - beginning from ideating the event, inviting speakers, creating posters and promotional videos to marketing the event to capture the audience, hosting the event and distributing goodies to the attendees.
+- As part of this group, I am organising an event - **Tech Fusion - Bridging AI Dreams with AWS Realities** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/events/295800993/) - beginning from ideating the event, inviting speakers, creating posters and promotional videos to marketing the event to capture the audience, hosting the event and distributing goodies to the attendees.
 
 ![Meetup Poster](https://github.com/jahnavivetukuri/jahnavivetukuri/blob/main/Meetup_poster_16_September.png)
 
@@ -127,76 +128,418 @@ Being the community builder of CloudnLoud Tech Community, Contributed in the con
 
 # AWS Cloud Free 2 months Internship - Week 1
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase RealTime Internship | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/V-2ME9qCGIk)
-- AWS Cloud DevOps Syllabus -UseCase Real-time | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/8PsJG53-D6U)
-- AWS Cloud DevOps UseCase Internship Day1 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/POfrtFFNq3Y)
-- AWS Cloud DevOps UseCase Internship Day1 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/0IXpnDOR81M)
-- AWS Cloud DevOps UseCase Internship Day1 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/aHobd28K9eo)
-- AWS Cloud DevOps UseCase Internship Day1 Slot4 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/O_kWJgQbh8U)
-- AWS Cloud DevOps UseCase Internship Day2 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/IWC9Pw-AKfw)
-- AWS Cloud DevOps UseCase Internship Day2 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/bxZ_7l1tuA4)
-- AWS Cloud DevOps UseCase Internship Day2 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/wcACvI70SYk)
+<table>
+  <tr>
+    <td style="border: none; padding: 0; text-align: centre;"><strong>AWS Topic</strong></td>
+    <td style="border: none; padding: 0; text-align: centre;"><strong>Video Link</strong></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase RealTime Internship</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/V-2ME9qCGIk">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps Syllabus - UseCase Real-time</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/8PsJG53-D6U">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day1 Slot1</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/POfrtFFNq3Y">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day1 Slot2</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/0IXpnDOR81M">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day1 Slot3</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/aHobd28K9eo">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day1 Slot4</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/O_kWJgQbh8U">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day2 Slot1</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/IWC9Pw-AKfw">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day2 Slot2</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/bxZ_7l1tuA4">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">AWS Cloud DevOps UseCase Internship Day2 Slot3</td>
+    <td style="border: none; padding: 0; text-align: left;">
+      <a href="https://youtu.be/wcACvI70SYk">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 # AWS Cloud Free 2 months Internship - Week 2
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase Internship Day3 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/S6jyaTq6PWo)
-- AWS Cloud DevOps UseCase Internship Day3 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/w9CrsuZ0cP8)
-- AWS Cloud DevOps UseCase Internship Day4 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/cnRzm_MlM5g)
-- AWS Cloud DevOps UseCase Internship Day4 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/VOpHbf-JPdw)
-- AWS Cloud DevOps UseCase Internship Day4 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/TfCfTI_LH9o)
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day3 Slot1</td>
+    <td>
+      <a href="https://youtu.be/S6jyaTq6PWo">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day3 Slot2</td>
+    <td>
+      <a href="https://youtu.be/w9CrsuZ0cP8">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day4 Slot1</td>
+    <td>
+      <a href="https://youtu.be/cnRzm_MlM5g">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day4 Slot2</td>
+    <td>
+      <a href="https://youtu.be/VOpHbf-JPdw">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day4 Slot3</td>
+    <td>
+      <a href="https://youtu.be/TfCfTI_LH9o">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # AWS Cloud Free 2 months Internship - Week 3
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps Use Case InternShip Day5 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/pvIgAj3XSag)
-- AWS Cloud DevOps Use Case InternShip Day5 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/zXxFQZ-xwdA)
-- AWS Cloud DevOps UseCase Internship Day5 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/WBn_xOmT4xc)
-- AWS Cloud DevOps Internship Week 3 Day 6 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/RNl-gXDrCoU)
-- AWS Cloud DevOps Internship Week 3 Day 6 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/8Q9ftmHx1aA)
+
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps Use Case InternShip Day5 Slot1</td>
+    <td>
+      <a href="https://youtu.be/pvIgAj3XSag">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps Use Case InternShip Day5 Slot2</td>
+    <td>
+      <a href="https://youtu.be/zXxFQZ-xwdA">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Day5 Slot3</td>
+    <td>
+      <a href="https://youtu.be/WBn_xOmT4xc">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps Internship Week 3 Day 6 Slot1</td>
+    <td>
+      <a href="https://youtu.be/RNl-gXDrCoU">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps Internship Week 3 Day 6 Slot2</td>
+    <td>
+      <a href="https://youtu.be/8Q9ftmHx1aA">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # AWS Cloud Free 2 months Internship - Week 4
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/0S_rqkVfNTc)
-- AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/EBi89LuXhLc)
-- AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/n4IlrolvkCA)
-- AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/VbGey_cjBPI)
-- AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/ExzBULc8Oqg)
+
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot1</td>
+    <td>
+      <a href="https://youtu.be/0S_rqkVfNTc">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot2</td>
+    <td>
+      <a href="https://youtu.be/EBi89LuXhLc">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot1</td>
+    <td>
+      <a href="https://youtu.be/n4IlrolvkCA">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot2</td>
+    <td>
+      <a href="https://youtu.be/VbGey_cjBPI">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot3</td>
+    <td>
+      <a href="https://youtu.be/ExzBULc8Oqg">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # AWS Cloud Free 2 months Internship - Week 5
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/LR83GLZhsH4)
-- AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/p2ntu-VHnBI)
-- AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/t0KTVWfBlpg)
-- AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/xL57lnOWK7Y)
-- AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot3 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/6GlXJn41d3A)
+
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot2</td>
+    <td>
+      <a href="https://youtu.be/LR83GLZhsH4">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot1</td>
+    <td>
+      <a href="https://youtu.be/p2ntu-VHnBI">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot1</td>
+    <td>
+      <a href="https://youtu.be/t0KTVWfBlpg">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot2</td>
+    <td>
+      <a href="https://youtu.be/xL57lnOWK7Y">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot3</td>
+    <td>
+      <a href="https://youtu.be/6GlXJn41d3A">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # AWS Cloud Free 2 months Internship - Week 6
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/fBJEz4LxAdg)
-- AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/tLwZUKuS7Z0)
-- AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/n5aFlLMpTYg)
-- AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/fXWsBhGA8rw)
+
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+ 
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot1</td>
+    <td>
+      <a href="https://youtu.be/fBJEz4LxAdg">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot2</td>
+    <td>
+      <a href="https://youtu.be/tLwZUKuS7Z0">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot1</td>
+    <td>
+      <a href="https://youtu.be/n5aFlLMpTYg">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot2</td>
+    <td>
+      <a href="https://youtu.be/fXWsBhGA8rw">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # AWS Cloud Free 2 months Internship - Week 7
 
-## AWS Topic | Video Link
-- Cloud DevOps UseCase Internship Week 7 Day 13 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/vo4X-IKkwwU)
-- Cloud DevOps UseCase Internship Week 7 Day 13 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/L2ZUF6e2bJ4)
-- AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/Tcg-Vx9NPyo)
-- AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/D0N1TGC7g6g)
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+  <!-- Previous content here -->
+
+  <!-- Week 7 -->
+  <tr>
+    <td>Cloud DevOps UseCase Internship Week 7 Day 13 Slot1</td>
+    <td>
+      <a href="https://youtu.be/vo4X-IKkwwU">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Cloud DevOps UseCase Internship Week 7 Day 13 Slot2</td>
+    <td>
+      <a href="https://youtu.be/L2ZUF6e2bJ4">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot1</td>
+    <td>
+      <a href="https://youtu.be/Tcg-Vx9NPyo">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot2</td>
+    <td>
+      <a href="https://youtu.be/D0N1TGC7g6g">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # AWS Cloud Free 2 months Internship - Week 8
 
-## AWS Topic | Video Link
-- AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/dy1W4VQuDEI)
-- AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/sZtKLSAIw28)
-- AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/ZHuvfk6VOZs)
-- AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/KlVfpKrFChM)
+
+<table>
+  <tr>
+    <td><strong>AWS Topic</strong></td>
+    <td><strong>Video Link</strong></td>
+  </tr>
+    <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot1 |</td>
+    <td>
+      <a href="https://youtu.be/dy1W4VQuDEI">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot2 |</td>
+    <td>
+      <a href="https://youtu.be/sZtKLSAIw28">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot1 |</td>
+    <td>
+      <a href="https://youtu.be/ZHuvfk6VOZs">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot2 |</td>
+    <td>
+      <a href="https://youtu.be/KlVfpKrFChM">
+        <img src="https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ![GitHub Profile](https://github-readme-stats.vercel.app/api?username=jahnavivetukuri&show_icons=true&theme=white)
@@ -214,4 +557,4 @@ Being the community builder of CloudnLoud Tech Community, Contributed in the con
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jahnavivetukuri/).
 
-Let's Connect, Collaborate, and Conquer together!
+Let's **Connect, Collaborate, and Conquer** together!
